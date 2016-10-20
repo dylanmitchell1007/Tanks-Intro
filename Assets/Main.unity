@@ -135,15 +135,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 22439608, guid: b385ab9b976622947b18f5f6aee8c656, type: 2}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 22439608, guid: b385ab9b976622947b18f5f6aee8c656, type: 2}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 22427554, guid: b385ab9b976622947b18f5f6aee8c656, type: 2}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b385ab9b976622947b18f5f6aee8c656, type: 2}
@@ -573,7 +573,8 @@ AudioSource:
   m_GameObject: {fileID: 1543125816}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24302170, guid: 857d69c9cf0c072478259bc47d8d6c5b,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 8ce5d020a687c314891341b4126d1de2, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
